@@ -1,4 +1,4 @@
-A simple REACT app I made for practice that calls the boredapi.com API to provide you with a random activity.
+A simple React app I made for practice that calls the boredapi.com API to provide you with a random activity.
 
 
 
